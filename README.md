@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaizter</h1>
 <h3 align="center">A passionate software developer who loves to explore new technologies.</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [https://khaizter-developer-portfolio.netlify.app/](https://khaizter-developer-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
